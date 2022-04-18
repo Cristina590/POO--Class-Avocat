@@ -1,2 +1,2 @@
-# POO tema 2: Class-Avocat
+# POO tema 2: Class Avocat
 
